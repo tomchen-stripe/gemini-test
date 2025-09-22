@@ -3,14 +3,8 @@
     "version": "1.0.0",
     "mcpServers": {
         "stripeMcp": {
-        "httpUrl": "https://mcp.stripe.com",
-        "oauth": {
-            "enabled": true,
-            "discoveredServer": {
-                "url": "https://mcp.stripe.com"
-            }
-          }
+            "url": "https://mcp.stripe.com"
         }
-      },
+    },
     "contextFileName": "gemini-extension/GEMINI.md"
   }
