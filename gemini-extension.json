@@ -5,7 +5,8 @@
         "stripeMcp": {
             "url": "https://mcp.stripe.com",
             "oauth": {
-                "enabled": true
+                "enabled": true,
+                "authorizationUrl": "https://marketplace.stripe.com/oauth/v2/authorize"
             }
         }
     },
