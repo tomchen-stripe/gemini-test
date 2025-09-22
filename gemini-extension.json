@@ -6,7 +6,8 @@
         "httpUrl": "https://mcp.stripe.com",
         "oauth": {
             "enabled": true,
-            "authorizationUrl": "https://mcp.stripe.com/oauth/authorize"
+            "authorizationUrl": "https://marketplace.stripe.com/oauth/v2/authorize",
+            "tokenUrl": "https://mcp.stripe.com/v1/oauth/token"
           }
         }
       },
